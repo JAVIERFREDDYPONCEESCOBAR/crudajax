@@ -1,0 +1,123 @@
+[29-Feb-2024 22:41:17 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/login.php:18) in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/login.php on line 20
+[29-Feb-2024 22:42:42 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/login.php:18) in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/login.php on line 20
+[29-Feb-2024 22:43:08 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/login.php:18) in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/login.php on line 20
+[01-Mar-2024 10:32:36 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:32:36 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:32:56 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:32:56 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:35:26 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:35:26 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:35:35 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:35:35 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:35:50 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:35:50 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:36:20 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:36:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:36:30 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:36:30 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:39:16 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:39:16 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:40:09 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:40:09 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:40:23 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:40:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:40:25 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:40:25 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:40:26 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:40:26 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:40:26 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:40:26 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:40:27 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:40:27 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:42:14 America/Mexico_City] PHP Warning:  Undefined array key "domicilio" in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 8
+[01-Mar-2024 10:42:14 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:43:34 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:44:16 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:44:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:44:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:44:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
+[01-Mar-2024 10:44:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'correo' in 'field list' in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php:12
+Stack trace:
+#0 /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php(12): mysqli_query(Object(mysqli), 'INSERT into per...')
+#1 {main}
+  thrown in /home3/javoxdig/subdominios/demo.javoxdigital.com.mx/php/agregar-tarea.php on line 12
